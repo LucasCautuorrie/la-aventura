@@ -1,2 +1,2 @@
-# estancia-la-aventura
+#la-aventura
 Sistema de gestión para Estancia La Aventura
